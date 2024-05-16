@@ -4,7 +4,7 @@
 .bun-top {
   height: 70px;
   width: 60%;
-  background: #ffc358;
+  background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
 }
@@ -12,21 +12,21 @@
 .cheese {
   height: 15px;
   width: 65%;
-  background: #ffba58;
+  background: #f2c120;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .tomato {
   height: 25px;
-  width: 60%;
-  background-color: #f83c4f;
+  width: 50%;
+  background-color: #dd3710;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .meatball {
   height: 60px;
   width: 70px;
-  background: #733408;
+  background: #74380d;
   border-radius: 50px;
   display: inline-block;
   vertical-align: top;
@@ -35,29 +35,29 @@
 .patty {
   height: 35px;
   width: 65%;
-  background: #944c18;
+  background: #ad370b;
   border-radius: 15px;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .pickle {
   height: 30px;
-  width: 70%;
-  background: #51bc10;
+  width: 50%;
+  background: #3ac67d;
   border-radius: 0 0 100px 100px;
   border-bottom: solid 10px #2d9961;
 }
 
 .onion {
-  width: 50%;
-  background-color: #e17cf0;
+  width: 40%;
+  background-color: #a039bf;
   border-top: dotted 20px rgba(255,255,255,.2);
 }
 
 .bun-bottom {
   height: 35px;
   width: 60%;
-  background: #ffc254;
+  background: #e5b05a;
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
 }
@@ -65,46 +65,6 @@
 .plate {
   height: 25px;
   width: 80%;
-  background: #1bdad2;
-  border-radius: 20px 20px 200px 200px;
-}
-
-.bacon {
-    width: 65%;
-    height: 2%;
-    background-color: #D83902;
-    border: 2px solid #915402 ;
-    border-radius: 5px;
-        margin-bottom: 10px;
-    transform: rotate(-5deg);
-}
-
-.eggyolk {
-  height: 30px;
-  width: 90px;
-  background: #ffc300;
-  border-radius: 50px;
-  display: inline-block;
-  vertical-align: top;
-}
-.eggwhite {
-  height: 25px;
-  width: 65%;
-  background: #fff6d8;
-  border-radius: 15px;
-  border-bottom: solid 2px rgba(0,0,0,.1);
-}
-
-.lettuce {
-  height: 15px;
-  width: 65%;
-  background: #98dc52;
-  border-bottom: solid 2px rgba(0,0,0,.1);
-}
-
-.platetwo {
-  height: 25px;
-  width: 80%;
-  background: #a8d3d0;
+  background: #656565;
   border-radius: 20px 20px 200px 200px;
 }
